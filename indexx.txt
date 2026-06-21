@@ -1,0 +1,90 @@
+<html>
+
+<head>
+    <title>Mi pagina web</title>
+</head>
+
+<body bgcolor="cyan" text="black">
+
+<center>
+<h1>Mi pagina web para Introduccion a la Computacion</h1>
+</center>
+
+<p>
+Hola, esta es mi pagina web personal. Aqui muestro algunas cosas sobre mi,
+mis gustos y paginas que utilizo.
+</p>
+
+<hr>
+
+<h2>Mis paginas favoritas</h2>
+
+<p>
+Esta es mi universidad:
+<a href="https://ucsp.edu.pe/">MI UNIVERSIDAD UCSP</a>
+</p>
+
+<p>
+Este fue mi colegio:
+<a href="https://www.sjbdelasalle.edu.pe/">COLEGIO SJB DE LA SALLE</a>
+</p>
+
+<p>
+Esta es mi banda favorita:
+<a href="https://www.sabaton.net/">SABATON</a>
+</p>
+
+<p>
+Este es mi girl group favorito:
+<a href="https://ygfamily.com/ko/artists/blackpink/main">BLACKPINK</a>
+</p>
+
+<p>
+Este es mi juego favorito:
+<a href="https://warthunder.com/es/">WAR THUNDER</a>
+</p>
+
+<p>
+Este es mi mod favorito de otro juego:
+<a href="https://gamejolt.com/games/indiecross/643540">INDIE CROSS</a>
+</p>
+
+<p>
+Este es mi canal de YouTube:
+<a href="https://www.youtube.com/@rebirthprimetrex">MI CANAL DE YOUTUBE</a>
+</p>
+
+<p>
+Este es un canal donde aprendo sobre geopolitica:
+<a href="https://www.youtube.com/@SoloFonseca">SOLO FONSECA</a>
+</p>
+
+<p>
+Este es un sitio para ver peliculas:
+<a href="https://cuevana3.cl/">CUEVANA</a>
+</p>
+
+<p>
+Este es un sitio que uso para descargar archivos:
+<a href="https://notube.im/es/youtube-app-351">NOTUBE</a>
+</p>
+
+<p>
+Este es mi editor favorito para hacer trabajos:
+<a href="https://www.canva.com/es_419/">CANVA</a>
+</p>
+
+<p>
+Este es un sitio que uso para buscar informacion:
+<a href="https://app.researchrabbit.ai/home">RESEARCH RABBIT</a>
+</p>
+
+<hr>
+
+<center>
+Gracias por visitar mi pagina
+</center>
+
+</body>
+
+</html>
